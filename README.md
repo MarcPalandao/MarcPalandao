@@ -12,8 +12,7 @@
 
 ## 🛠 Projects
 
-### 📌 DSWD Social Pension Profiling System
-GitHub Repo: helorentino-rey/socpen_System
+### 📌 [DSWD Social Pension Profiling System](https://github.com/helorentino-rey/socpen_System)
 Role: Contributor
 Duration: June – December 2024 (Internship at DSWD Davao)
 
