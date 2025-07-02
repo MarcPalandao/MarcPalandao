@@ -12,11 +12,27 @@
 
 ## 🛠 Projects
 
-### 📌 [DSWD Social Pension Profiling System](https://github.com/MarcPalandao/dswd-profiling-system)  
-A web-based profiling system to improve beneficiary data management for the DSWD SocPen Division.  
-- 🔧 Built with: PHP, HTML, CSS, MySQL  
-- ✅ Features: Beneficiary forms, data search, CRUD operations, and admin tools  
-- 📋 Developed during my 6-month internship with DSWD Davao
+### 📌 DSWD Social Pension Profiling System
+GitHub Repo: helorentino-rey/socpen_System
+Role: Contributor
+Duration: June – December 2024 (Internship at DSWD Davao)
+
+Description:
+A web-based profiling system designed to streamline and organize beneficiary records for the Social Pension (SocPen) Division at the Department of Social Welfare and Development (DSWD) in Davao City.
+
+Tech Stack: PHP, HTML, CSS, MySQL, Visual Studio Code
+
+Key Contributions:
+
+Participated in requirement gathering and system design meetings with SocPen staff
+
+Developed core modules for CRUD operations (beneficiary profile creation, update, and deletion)
+
+Assisted with form validation and front-end layout using HTML and CSS
+
+Helped test the system and provided technical support during deployment
+
+Contributed directly to the source code and feature improvements during the internship
 
 ---
 
